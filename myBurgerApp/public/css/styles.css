@@ -1,0 +1,28 @@
+
+
+
+body {
+    background-color: rgb(216, 213, 204);
+  }
+
+  .myImg {
+    /* height: 20vh; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+  .headH1 {
+    text-align: center;
+  }
+
+  .myButton {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  p {
+    text-align: center;
+  }
